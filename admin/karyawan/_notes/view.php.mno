@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_kriteria" value="name:id_kriteria;datatype:int,name:nama_kriteria;datatype:string,name:bobot_kriteria;datatype:int,name:keterangan;datatype:string" />
+	<infoitem key="UD_rs_alternatif" value="name:id_alternatif;datatype:int,name:nama_alternatif;datatype:string" />
+	<infoitem key="UD_rs_bobot" value="name:id_bobot;datatype:int" />
+</info>
