@@ -1,2 +1,2 @@
 # Skripsi
-Skripsi S1
+Analisa Perbandingan Metode ELECTRE dan ARAS Terhadap Seleksi Calon karyawan
